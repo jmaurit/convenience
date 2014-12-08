@@ -1,0 +1,694 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cost_over_tie",
+				"cost_over_time_plot"
+			],
+			[
+				"sm",
+				"small_contractor"
+			],
+			[
+				"contract",
+				"contractor_cat"
+			],
+			[
+				"pv_top50",
+				"pv_top50_contractor"
+			],
+			[
+				"contractor",
+				"contractor_year_num"
+			],
+			[
+				"contrac",
+				"contractor_market_share"
+			],
+			[
+				"st",
+				"stringsAsFactor"
+			],
+			[
+				"Solar",
+				"SolarCity"
+			],
+			[
+				"LosAnge",
+				"LosAngeles_gam"
+			],
+			[
+				"San",
+				"SanFrancisco"
+			],
+			[
+				"time",
+				"time_years"
+			],
+			[
+				"median",
+				"median_home_value"
+			],
+			[
+				"name",
+				"nameplate_capacity"
+			],
+			[
+				"scale",
+				"scale_color_grey"
+			],
+			[
+				"Date",
+				"DatetimeIndex"
+			],
+			[
+				"market",
+				"market_share"
+			],
+			[
+				"cost",
+				"cost_per_kw"
+			],
+			[
+				"gam_price_invest",
+				"gam_price_invest_over"
+			],
+			[
+				"lar",
+				"large_field"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"SED",
+				"SEDataZ"
+			],
+			[
+				"SEprice",
+				"SEPrice_work_tplus1"
+			],
+			[
+				"oil",
+				"oil_price_real_l6"
+			],
+			[
+				"perc",
+				"perc_75_price"
+			],
+			[
+				"perc_",
+				"perc_25_price"
+			],
+			[
+				"av",
+				"avg_price"
+			],
+			[
+				"var_",
+				"var_quantity"
+			],
+			[
+				"mean",
+				"mean_quantity"
+			],
+			[
+				"series",
+				"series_lag"
+			],
+			[
+				"field",
+				"field_inspection"
+			],
+			[
+				"gam_price_over_",
+				"gam_price_over_2d_s_price"
+			],
+			[
+				"summar",
+				"summary_over_gamma"
+			],
+			[
+				"summary",
+				"summary_comp_under"
+			],
+			[
+				"smooth",
+				"smooth_price_2"
+			],
+			[
+				"statfjord",
+				"statfjord_plot"
+			],
+			[
+				"size",
+				"size_vs_init_prod"
+			],
+			[
+				"reco",
+				"recoverable_oil"
+			],
+			[
+				"invest_per_prd",
+				"invest_per_prod_l5"
+			],
+			[
+				"real",
+				"oil_price_real"
+			],
+			[
+				"fields",
+				"fields_p"
+			],
+			[
+				"peak",
+				"peak_to_end"
+			],
+			[
+				"res",
+				"res_fit_se"
+			],
+			[
+				"smooth_ben",
+				"smooth_bench_split"
+			],
+			[
+				"year",
+				"year_prod"
+			],
+			[
+				"min",
+				"min_time_to_peak"
+			],
+			[
+				"invest",
+				"investmentMillNOK_real"
+			],
+			[
+				"fitted",
+				"fitted_year_prod"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/johannesmauritzen/anaconda/lib/python2.7/site-packages/convenience.py",
+			"settings":
+			{
+				"buffer_size": 900,
+				"line_ending": "Unix",
+				"name": "convenience.py"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"latexing:",
+				"LaTeXing: Buy a License"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"late",
+				"LaTeXing: Open User Preferences"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ife",
+				"Snippet: Ifelse"
+			],
+			[
+				"snippet ife",
+				"Snippet: Ifelse"
+			],
+			[
+				"snippetife",
+				"Snippet: Ifelse"
+			],
+			[
+				"snippet",
+				"Snippet: Length"
+			],
+			[
+				"sn",
+				"Snippet: For Loop"
+			],
+			[
+				"package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control: List ",
+				"Package Control: List Packages"
+			],
+			[
+				"PACKAGE CONTROL: INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johannesmauritzen/Google Drive/application materials/neuchatel/lecture_notes.txt",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/info_solar.tex",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/info_solar_prenov_version.tex",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/notes.txt",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/cal_solar.bib",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/IAEE_Beijing.tex",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/info_simulation.py",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/Beijing_notes.txt",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/cal_solar.stan",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/solar_pres.tex",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/cal_solar.tex",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/pres_notes.txt",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/solar_cleaning.r",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/solar_cleaning.py",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/contractor_analysis.r",
+		"/Users/johannesmauritzen/Google Drive/PythonForComputation/data_python.py",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/production_cleaning.py",
+		"/Users/johannesmauritzen/Google Drive/Research/CalSolar/solar_analysis.r",
+		"/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/LaTeXing.sublime-settings",
+		"/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/johannesmauritzen/Google Drive/Teaching/Env_econ_instruments/labs234.r",
+		"/Users/johannesmauritzen/Google Drive/Teaching/Env_econ_instruments/R_practice.R",
+		"/Users/johannesmauritzen/Google Drive/Teaching/Env_econ_instruments/ENE423_assignment.tex",
+		"/Users/johannesmauritzen/Google Drive/Scrapping/EJRevisions/ScrappingR.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_prices.bib",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_prices.tex",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_prices.bib",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/price_modeling.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_descriptives.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/price_modeling_alt.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_todo.txt",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_clean.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_modeling_prep.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_modeling_eko.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/Oil_spatial.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_temp.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_forecasting.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/apa_example.tex",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_pres_fibe_jan2014.txt",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_pres_fibe_jan2014.tex",
+		"/Users/johannesmauritzen/Google Drive/price-spikes/r-price-spikes/AnalysisMay2013.R",
+		"/Users/johannesmauritzen/Google Drive/price-spikes/AnalysisMay2013.R",
+		"/Users/johannesmauritzen/Google Drive/price-spikes/priceSpikeAnalysis.R",
+		"/Users/johannesmauritzen/Google Drive/elbas_efficiency/elbas_ACD.r",
+		"/Users/johannesmauritzen/Google Drive/marketPower/marketPowerSeptember2013.r",
+		"/Users/johannesmauritzen/Google Drive/marketPower/Analysis_may_2013.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_pres_ifn.tex",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_pres1.tex",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_pres_ifn.txt",
+		"/Users/johannesmauritzen/Desktop/website_copy/jmaurit.github.io/index.html",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentation/oil_pres1.tex",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/brownbag.txt",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_pres1.tex",
+		"/Users/johannesmauritzen/Desktop/extract.r",
+		"/Users/johannesmauritzen/Google Drive/marketPower/cleaning.R",
+		"/Users/johannesmauritzen/Google Drive/github/state_space/statespace.r",
+		"/Users/johannesmauritzen/Google Drive/github/elec_wavelet/wavelet.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/reserve_forecasts.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_modeling.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_bootstrap.r",
+		"/Users/johannesmauritzen/Google Drive/Oil/rOil/oil.R",
+		"/Users/johannesmauritzen/Google Drive/Oil/rOil/oil_modeling_prep",
+		"/Users/johannesmauritzen/Google Drive/Oil/rOil/#oil_modeling_prep.r",
+		"/Users/johannesmauritzen/Google Drive/website/jmaurit.github.io/index.html",
+		"/Users/johannesmauritzen/Google Drive/Oil/rOil/oil_clean.R",
+		"/Users/johannesmauritzen/Google Drive/marketPower/MarketPowerAugust2013.R",
+		"/Users/johannesmauritzen/Google Drive/Oil/rOil/oil_modeling.R",
+		"/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			"rwe",
+			"ticks",
+			"res=100",
+			"lease",
+			"China",
+			"Japan",
+			"China",
+			"by_zip_type",
+			"pv",
+			"reg_lease_mod",
+			"pv_tbl",
+			"combi",
+			"reg_combi",
+			"lease_chinese",
+			"reg",
+			"mlm_lease",
+			"cont_level",
+			"reg",
+			"cont_level",
+			"chinese",
+			"chin",
+			"se_b_hat",
+			"slope",
+			"se_a_hat",
+			"intercept",
+			"chinese",
+			"county",
+			"pv_top50",
+			"\n",
+			"\\caption",
+			"test",
+			"res=50",
+			"ref=50",
+			"res=100",
+			"theme_blank",
+			"county",
+			"zip",
+			"counties",
+			"<-",
+			"pv$",
+			"owner_sector",
+			"2009",
+			"2010",
+			"2011",
+			"2012",
+			"2013",
+			"2014",
+			"nameplate_rating",
+			"name_plate_rating",
+			"plant1",
+			"u'",
+			"small",
+			"u'",
+			"u",
+			"[h]",
+			"over",
+			"under",
+			"1",
+			"under",
+			"_",
+			"nirupama_s._rao",
+			"_",
+			"\\_",
+			"multiline",
+			"percent",
+			"\\_",
+			"mohn		",
+			"fields_p",
+			"time_to_peak",
+			"build_out",
+			"postpeak",
+			"gam_price_short",
+			"gam_price_chart",
+			"chart_over_short",
+			"chart_under_short",
+			"gam_price_over_2d_short",
+			"gam_price_under_2d_short",
+			"fields_p",
+			"gam_price_pooled",
+			"chart_pooled",
+			"8",
+			"oil_price_real_l2",
+			"max_prod",
+			"large_field",
+			"pos_price",
+			"pos_dif",
+			"fields",
+			"vinterdekk",
+			">vinterdekk\n",
+			">\n",
+			"/Users/johannesmauritzen/Google Drive/oil/figures/",
+			"fields_p"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			"eongy",
+			"scty",
+			"res=75",
+			"sold",
+			"lease",
+			"Germany",
+			"Japan",
+			"pv_clean",
+			"reg_lease_mod2",
+			"pv",
+			"interaction",
+			"reg_interaction",
+			"interaction",
+			"reg_combi",
+			"mlm_lease_chinese",
+			"cont_level_lease",
+			"reg_chinese",
+			"cont_level_chinese",
+			"lease",
+			"b_se",
+			"b_hat",
+			"a_se",
+			"a_hat",
+			"slope",
+			"lease",
+			"contractor",
+			"pv",
+			"%\\caption",
+			"res=300",
+			"element_blank",
+			"city",
+			"county",
+			"=",
+			"",
+			"2008",
+			"2009",
+			"2010",
+			"2011",
+			"2012",
+			"2013",
+			"nameplate_capacity",
+			"name_plate_capacity",
+			"sol_prod_lim",
+			"'",
+			"lim",
+			"'",
+			"",
+			"under",
+			"over",
+			"2",
+			"over",
+			"",
+			"rao",
+			"",
+			"multline",
+			"\\%",
+			"",
+			"fields_old",
+			"peak_to_end",
+			"decline",
+			"prepeak",
+			"gam_postpeak",
+			"gam_postpeak_chart",
+			"chart_postpeak_large",
+			"chart_postpeak_small",
+			"gam_postpeak_large",
+			"gam_postpeak_small",
+			"fields_old",
+			"invest_pooled",
+			"chart_invest",
+			"short",
+			"large_field",
+			"max_prod",
+			"after_peak",
+			"neg_price",
+			"neg_dif",
+			"oil_long",
+			"varmeovn",
+			"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/",
+			"fields_eko"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/johannesmauritzen/anaconda/lib/python2.7/site-packages/convenience.py",
+					"settings":
+					{
+						"buffer_size": 900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"auto_name": "convenience.py",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.latex_log":
+	{
+		"height": 332.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true
+}
