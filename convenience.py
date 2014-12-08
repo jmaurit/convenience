@@ -2,7 +2,6 @@
 import numpy as np
 import pandas as pd
 
-
 def month_year(months=[], years=[]):
 	"""gets month and year lists and merges and returns array of date times"""
 	#test

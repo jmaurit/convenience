@@ -1,2 +1,6 @@
-
+path:
 /Users/johannesmauritzen/anaconda/lib/python2.7/site-packages/convenience
+
+Use this when opening in python:
+sys.path.append('/Users/johannesmauritzen/anaconda/lib/python2.7/site-packages/convenience')
+from convenience import month_year 
