@@ -200,10 +200,13 @@
 	"buffers":
 	[
 		{
+			"contents": "",
 			"file": "/Users/johannesmauritzen/anaconda/lib/python2.7/site-packages/convenience.py",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 900,
+				"buffer_size": 0,
 				"line_ending": "Unix",
 				"name": "convenience.py"
 			}
@@ -599,15 +602,15 @@
 					"file": "/Users/johannesmauritzen/anaconda/lib/python2.7/site-packages/convenience.py",
 					"settings":
 					{
-						"buffer_size": 900,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								55,
-								55
+								0,
+								0
 							]
 						],
 						"settings":
